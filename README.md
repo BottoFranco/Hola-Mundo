@@ -8,4 +8,4 @@ Me gusta :car:, :computer:, :motorcycle:
 
 Tambien me gusta :dog:, :cat:, :house:
 
-Soy de Argentina 🇦🇷
+Soy de Argentina :argentina:
